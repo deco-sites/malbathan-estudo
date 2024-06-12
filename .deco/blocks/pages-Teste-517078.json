@@ -1,0 +1,16 @@
+{
+  "name": "Teste",
+  "path": "/teste",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Content/Intro.tsx",
+      "text": "Teste malbathan",
+      "subheading": "Testando novamente",
+      "alignment": "Center"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
