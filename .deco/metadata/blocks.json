@@ -287,10 +287,6 @@
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
-  "/.deco/blocks/deco-wake.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/wake.ts"
-  },
   "/.deco/blocks/deco-workflows.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/workflows.ts"
@@ -307,17 +303,9 @@
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
   },
-  "/.deco/blocks/deco-implementation.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/implementation.ts"
-  },
   "/.deco/blocks/deco-analytics.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/analytics.ts"
-  },
-  "/.deco/blocks/deco-ai-assistants.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/ai-assistants.ts"
   },
   "/.deco/blocks/deco-vtex.json": {
     "blockType": "apps",

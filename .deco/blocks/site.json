@@ -52,9 +52,17 @@
     "directives": []
   },
   "commerce": {
-    "platform": "other"
+    "platform": "wake",
+    "storefrontToken": {
+      "__resolveType": "website/loaders/secret.ts",
+      "name": "tokenbeyoung",
+      "encrypted": "099592b580c12f956e4c23ac47a5924bb27dd3869166c0a2035d1a09c03c8ce5f82d7cba142f4b6c15e7a1f98d2d20b6"
+    },
+    "token": {},
+    "account": "beyoung",
+    "checkoutUrl": "https://checkout.beyoung.com.br"
   },
-  "platform": "vtex",
+  "platform": "wake",
   "__resolveType": "site/apps/site.ts",
   "firstByteThresholdMS": true,
   "abTesting": {
@@ -62,5 +70,8 @@
     "includeScriptsToHead": {
       "includes": []
     }
+  },
+  "flavor": {
+    "framework": "fresh"
   }
 }
